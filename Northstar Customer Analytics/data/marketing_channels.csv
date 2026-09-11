@@ -1,0 +1,9 @@
+channel_id,channel_name,channel_type,cost_per_acquisition
+1,Organic,Organic,0
+2,Google Ads,Paid,180
+3,Referral,Referral,75
+4,Outbound Sales,Sales,450
+5,Partner,Partner,220
+6,Social,Paid,120
+7,Content,Organic,60
+8,Events,Sales,380
